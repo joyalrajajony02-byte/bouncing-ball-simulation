@@ -24,3 +24,14 @@ Press `4` to remove wireframe, then click Play.
 - `physics.py` - Warp kernel for ball physics
 - `scene.py` - USD scene with balls, shadows, colors
 - `main.py` - Runs simulation
+
+## Screenshots
+
+### Start (balls dropping)
+![Start](screenshots/start.png)
+
+### Mid (balls bouncing)
+![Mid](screenshots/mid.png)
+
+### End (balls settling)
+![End](screenshots/end.png)
